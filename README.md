@@ -1,6 +1,6 @@
 DVHRC : DVR/CCTV PATH VULNS SCANNER
 
-Dvhrc is simple tool for find path vulnerability
+Dvhrc is simple tool for find DVR/CCTV path vulnerability
 
 
 special thanks:<br>
