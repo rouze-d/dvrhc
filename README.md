@@ -15,10 +15,8 @@ sudo apt install hping3 curl<br>
 
 dork:<br>
 intitle:'DVR Login'<br>
-html:'/login.rsp<br>
-inurl:*.Webcam<br>
-inurl:/cgi-bin/* camera<br>
-dvr camera inurl:/cgi-bin/<br>
+intitle: "XVR Login"<br>
+inurl:'/login.rsp'<br>
 
 
 more fun for default login:<br>
