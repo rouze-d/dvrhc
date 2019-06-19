@@ -10,8 +10,10 @@ https://github.com/TunisianEagles/DVR-Exploiter
 
 
 need:<br>
-sudo gem install lolcat<br>
-sudo apt install hping3 curl<br>
+```
+sudo gem install lolcat
+sudo apt install hping3 curl
+```
 
 dork:<br>
 intitle:'DVR Login'<br>
