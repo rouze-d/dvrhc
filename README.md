@@ -17,13 +17,13 @@ sudo apt install hping3 curl
 
 dork:<br>
 intitle:'DVR Login'<br>
-intitle: "XVR Login"<br>
+intitle:"XVR Login"<br>
 inurl:'/login.rsp'<br>
 
 
 more fun for default login:<br>
-
-Module |               Username:Password<br>
+<pre>
+Module               | Username:Password<br>
 
 ACTI                 - admin:123456 or Admin:123456<br>
 Axis(traditional)    - root:pass<br>
@@ -39,6 +39,8 @@ Samsung Techwin(new) - admin:4321<br>
 Sony                 - admin:admin<br>
 TRENDnet             - admin:admin<br>
 Toshiba              - root:ikwd<br>
-Vivotek              - root:   (no have password. lave it \<blank\>)<br>
-WebcamXP             - admin:  (no have password. lave it \<blank\>)<br>
-
+Vivotek              - root:   (no have password. lave it < blank >)<br>
+WebcamXP             - admin:  (no have password. lave it < blank >)<br>
+</pre>
+## Demo
+[![asciicast](https://asciinema.org/a/254257.svg)](https://asciinema.org/a/254257)
