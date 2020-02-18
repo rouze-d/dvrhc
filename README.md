@@ -15,10 +15,23 @@ sudo gem install lolcat
 sudo apt install hping3 curl
 ```
 
-dork:<br>
+dork:<p>
+GOOGLE<br>
 intitle:'DVR Login'<br>
 intitle:"XVR Login"<br>
-inurl:'/login.rsp'<br>
+inurl:'/login.rsp'<p>
+SHODAN<br>
+NetWave IP Camera<br>
+IP Camera<br>
+
+
+## Screenshot
+<img src="https://github.com/rouze-d/dvrhc/blob/master/screenshot/1.jpg" width="700" height="350"/>
+<img src="https://github.com/rouze-d/dvrhc/blob/master/screenshot/2.jpg" width="700" height="350"/>
+
+
+possible IPCam/webCam/DVR/CCTV port:<br>
+80,280,443,448,554,557,591,593,1025,1027,2301,2804,3128,4180,4480,5556,5557,5558,5800,5801,5802,5803,5900,5920,5921,6588,7001,7002,8000,8001,8002,8008,8080,8081,8443,8888,8990,8991,9090,9193,37777,37778<br>
 
 
 more fun for default login:<br>
@@ -74,3 +87,5 @@ Wodsee              - admin:(no have password. lave it < blank >)
 ```
 ## Demo
 [![asciicast](https://asciinema.org/a/254257.svg)](https://asciinema.org/a/254257)
+<p>
+Sorry Old Demo
