@@ -12,7 +12,7 @@ https://github.com/TunisianEagles/DVR-Exploiter
 need:<br>
 ```
 sudo gem install lolcat
-sudo apt install hping3 curl
+sudo apt install hping3 curl nmap
 ```
 
 dork:<p>
